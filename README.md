@@ -30,4 +30,4 @@ Forecast accuracy compared using the Diebold-Mariano test with Harvey adjustment
 | `DataMoneyDemandNew.xlsx` | Dataset (CEIC, monthly, India 1997–2021) |
 
 ## Requirements
-numpy, pandas, matplotlib, scikit-learn, xgboost, statsmodels, arch, scipy, torch
+numpy, pandas, scikit-learn, xgboost, statsmodels, arch, scipy, torch, openpyxl, jupyter
