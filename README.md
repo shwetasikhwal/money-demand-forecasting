@@ -4,7 +4,7 @@ Code and data for the paper:
 
 **Sikhwal S., Sen S.** "Comparative Analysis of Machine Learning Models for Money Demand Forecasting in the Indian Economy."
 *HSE Economic Journal*, 28(1) (2024), 133–158.
-DOI: [10.17323/1813-8691-2024-28-1-133-158](https://doi.org/10.17323/1813-8691-2024-28-1-133-158)
+DOI: [10.17323/1813-8691-2024-28-1-133-158](http://doi.org/10.17323/1813-8691-2024-28-1-133-158)
 
 ---
 
